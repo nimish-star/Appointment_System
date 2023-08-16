@@ -17,7 +17,7 @@ engagement.
 
 ## Tech Stack
 
-**Client:** React, AntDesign
+**Frontend:** React, AntDesign
 
 **Server:** Node, Express
 
